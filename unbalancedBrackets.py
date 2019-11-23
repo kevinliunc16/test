@@ -2,14 +2,6 @@
 # Goal: Check unbalanced brackets 
 #       N lines of input    
 #       check brackets in every line of input and print result in Y/N 
-#
-# Sample Input: 
-#   4
-#   <[A()B]{}NTU>
-#   ())
-#   ()[1[2[3[[]
-#   [CSIE}
-
 
 def chk(s):
     di = {
