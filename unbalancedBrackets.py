@@ -1,7 +1,7 @@
 # QID: #3069 
 # Goal: Check unbalanced brackets 
 #       N lines of input    
-#       check brackets in every line of input and print result in Y/N 
+#       check if brackets are balanced in every line and print Y/N as result
 
 def chk(s):
     di = {
